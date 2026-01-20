@@ -11,9 +11,6 @@ This project preprocesses the Adult Income dataset to prepare it for machine lea
 5. Compared dataset readiness before and after scaling.
 6. Explained the impact of scaling on ML algorithms.
 
-## Deliverables
-- Adult_Preprocessing_Notebook.ipynb
-- adult_preprocessed.csv
 
 ## Outcome
 The dataset is fully encoded, scaled, and ready for machine learning.
